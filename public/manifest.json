@@ -1,0 +1,36 @@
+{
+  "theme_color": "#128ECC",
+  "background_color": "#128ECC",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "JobHuntId",
+  "short_name": "JobHuntId",
+  "description": "aplikasi yang membantu para Talent Hunter untuk mengumpulkan data kandidat pegawai yang mana akan dilakukan rekomendasi terhadap kandidat potensial pegawai sesuai data CV yang dimasukkan",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
