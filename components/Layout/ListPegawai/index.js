@@ -47,7 +47,7 @@ export const FormDataListPegawai = ({
     setDataIndexPegawai(dataPegawai);
   }, [dataPegawai]);
 
-  //State List Pegawaii
+  //State List Pegawai
   const [DataPegawai, setDataPegawai] = useState([]);
   const [pegawaiMethod, setPegawaiMethod] = useState("");
   const [modalPegawai, setShowModalPegawai] = useState(false);
